@@ -25,7 +25,7 @@ Aplikasi ini dibangun dengan desain modern berkonsep **Ultra-Dark Aesthetic** ya
 - **🗑️ Reset Device Data:** Fitur kliring state untuk menghapus foto serta data lokasi terikat, mengembalikan antarmuka aplikasi ke kondisi semula.
 
 ## tampilan awal
-![tampilan awal](./assets/tampilan_awal.JPEG) 
+![tampilan awal](./assets/tampilan_awal.jpeg) 
 ## input gambar
 ![tampilan awal](./assets/input_gambar.JPEG) 
 ## lokasi
