@@ -24,17 +24,15 @@ Aplikasi ini dibangun dengan desain modern berkonsep **Ultra-Dark Aesthetic** ya
 - **🗺️ Reverse Geocoding:** Mengonversi data mentah koordinat GPS (`latitude` & `longitude`) menjadi nama jalan dan wilayah yang dapat dibaca manusia secara *realtime* memanfaatkan modul `Location.reverseGeocodeAsync`.
 - **🗑️ Reset Device Data:** Fitur kliring state untuk menghapus foto serta data lokasi terikat, mengembalikan antarmuka aplikasi ke kondisi semula.
 
----
+## tampilan awal
+![tampilan awal](./assets/tampilan_awal.JPEG) 
+## input gambar
+![tampilan awal](./assets/input_gambar.JPEG) 
+## lokasi
+![tampilan awal](./assets/lokasi.JPEG)
 
-## 🛠️ Tech Stack & Library
-- **Framework:** React Native (Expo SDK)
-- **Modul Native:** 
-  - `expo-image-picker` (Akses Kamera & Galeri)
-  - `expo-location` (Akses GPS & Reverse Geocoding)
-- **Antarmuka:** StyleSheet (Custom Dark Mode UI dengan aksen Neon Teal)
-
----
-
+## link snack
+[link snack](https://snack.expo.dev/@manisha00/native-power-app)
 ## 📱 Panduan Menjalankan Proyek Secara Lokal
 
 ### 1. Kloning Repositori
