@@ -27,9 +27,9 @@ Aplikasi ini dibangun dengan desain modern berkonsep **Ultra-Dark Aesthetic** ya
 ## tampilan awal
 ![tampilan awal](./assets/tampilan_awal.jpeg) 
 ## input gambar
-![tampilan awal](./assets/input_gambar.JPEG) 
+![tampilan awal](./assets/input_gambar.jpeg) 
 ## lokasi
-![tampilan awal](./assets/lokasi.JPEG)
+![tampilan awal](./assets/lokasi.jpeg)
 
 ## link snack
 [link snack](https://snack.expo.dev/@manisha00/native-power-app)
